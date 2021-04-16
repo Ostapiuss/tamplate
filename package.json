@@ -1,5 +1,5 @@
 {
-  "name": "product-app",
+  "name": "tamplate",
   "version": "1.0.0",
   "description": "Prouct app",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ostapiuss/product-app.git"
+    "url": "git+https://github.com/Ostapiuss/tamplate.git"
   },
   "keywords": [
     "product",
@@ -26,9 +26,9 @@
   "author": "Ostapiuss",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ostapiuss/product-app/issues"
+    "url": "https://github.com/Ostapiuss/tamplate/issues"
   },
-  "homepage": "https://github.com/Ostapiuss/product-app#readme",
+  "homepage": "https://github.com/Ostapiuss/tamplate#readme",
   "devDependencies": {
     "eslint": "^7.24.0",
     "eslint-config-airbnb-base": "^14.2.1",
